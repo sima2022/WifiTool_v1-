@@ -9,7 +9,8 @@ Androidスマホ  でUDP TCP Sender&Receiverの様な動作を目指したAPKの
 Android 10.0-API29以前のOSには、対応してません。
 
 
-仕様
+仕様。
+
 UDP,TCPserver 2ch。TCPclient 1chの送受信+ping確認。
 スライドメニューから、Dark Mode,接続出来るアクセスポイントの表示だけです。
 

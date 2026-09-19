@@ -25,6 +25,7 @@ UDP,TCPserver 2ch。TCPclient 1chの送受信+ping確認。
 Tabが切り替わらない様にしました。
 
 その他、不足や間違った入力等あれば、DisplayAlertで表示します。
+
 Entryの入力確定時のみカーソルが消え、ナビゲーション戻るボタンでは、残ったままでした。
 Dark時Entryのアンダーライン黒とかぶり表示見えてない。
 

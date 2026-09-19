@@ -1,5 +1,6 @@
 # WifiTool_v1ß
 Wi-Fi network tool for Android - prototype (UDP/TCP_TCP client /TCP server)
+visual studio2022 MAUI .net8
 
 Androidスマホ  でUDP TCP Sender&Receiverの様な動作を目指したAPKのみの試作版です。
 実機でのTestは、Samsung SCV43(Android 10.0-API29)で行いました。
